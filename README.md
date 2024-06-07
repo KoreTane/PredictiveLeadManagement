@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Tratamento de Dados para Predição de Movimento em uma Academia de Dança</title>
-</head>
 <body>
     <h1>Tratamento de Dados para Predição de Movimento em uma Academia de Dança</h1>
     <p>Este projeto visa tratar os dados para prever os momentos de maior movimento em uma academia de dança.</p>
