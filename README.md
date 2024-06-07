@@ -42,28 +42,3 @@
     </ul>
     <h2>Conclusão</h2>
     <p>Este projeto visa tratar os dados para prever os momentos de maior movimento em uma academia de dança. Ao finalizar este projeto, os dados estarão prontos para serem utilizados em um modelo de Machine Learning para prever os momentos de maior movimento.</p>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #333;
-            margin-bottom: 10px;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        li:before {
-            content: "•";
-            margin-right: 10px;
-            color: #666;
-        }
-    </style>
-</body>
-</html>
