@@ -26,3 +26,4 @@
     <li>**IDADE**: valores em branco foram substituídos pela média, pois a média é uma medida de tendência central mais adequada para variáveis numéricas.</li>
 </ul>
 <p>Essas técnicas foram escolhidas para minimizar a perda de informações e garantir a consistência dos dados.</p>
+<h3>Preprocessamento de Dados</h3> <p>Limpar e preprocessar os dados utilizando técnicas como:</p> <ul> <li>Remoção de dados faltantes ou inconsistentes</li> <li>Normalização e padronização dos dados</li> <li>Transformação de variáveis categóricas em variáveis numéricas</li> </ul> <h3>Engenharia de Recursos</h3> <p>Aplicar técnicas de engenharia de recursos para extrair informações relevantes dos dados, como:</p> <ul> <li>Extração de features temporais (e.g., dia da semana, hora do dia)</li> <li>Extração de features categóricas (e.g., tipo de aula, nível de dificuldade)</li> <li>Extração de features numéricas (e.g., frequência de alunos, duração das aulas)</li> </ul>
