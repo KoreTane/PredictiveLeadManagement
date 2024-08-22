@@ -46,6 +46,6 @@
     <li>**TURNO**: valores em branco foram substituídos pela moda, pois a moda é uma medida de tendência central mais robusta para variáveis categóricas.</li>
     <li>**IDADE**: valores em branco foram substituídos pela média, pois a média é uma medida de tendência central mais adequada para variáveis numéricas.</li>
   </ul>
-  <p>Essas técnicas foram escolhidas para minimizar a perda de informações e garantir a consistência dos dados.</p>
+  <p>Essas técnicas foram escolhidas para minimizar a perda de informações a garantir a consistência dos dados.</p>
 </body>
 </html>
